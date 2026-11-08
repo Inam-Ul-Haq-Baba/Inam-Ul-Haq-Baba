@@ -25,7 +25,7 @@ Advanced React.js, Next.js, and Docker.
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/inam-ul-haq-babawork)
+- LinkedIn: [@Inam-Ul-Haq-Baba](https://www.linkedin.com/in/inam-ul-haq-babawork)
 - GitHub: [@Inam-UI-Haq-Baba](https://github.com/Inam-UI-Haq-Baba)
 
 ---
