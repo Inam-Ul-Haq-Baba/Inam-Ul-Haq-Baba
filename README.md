@@ -1,63 +1,27 @@
 # Hi there 👋, I'm Inam
 
-### MCA Student | Full Stack Developer
+### MCA Graduate | Full Stack Developer
 
 I'm a passionate developer interested in building responsive web applications and exploring modern technologies. I enjoy solving problems, learning new tools, and turning ideas into practical projects.
 
 ---
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, jQuery, React
+- **Backend:** Node.js, Express.js, EJS
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Languages:** Java, C++
+- **Tools:** Git, GitHub, Postman, Figma
 
-### 🚀 Tech Stack
-
-**Frontend**
-- HTML, CSS, Tailwind CSS
-- JavaScript, jQuery
-- React.js
-
-**Backend**
-- Node.js
-- Express.js
-- EJS
-
-**Databases**
-- MongoDB
-- MySQL
-- PostgreSQL
-
-**Programming Languages**
-- Java
-- C++
-
-**Tools**
-- Git & GitHub
-- Postman
-- Figma
-
----
-
-### 💻 Projects
-
-**1. Smart Lawn Maintenance**
-- Weed detection application using YOLOv9.
-- Detects and identifies different weed classes in lawn images.
-- Android application developed using Java.
-
-**2. JustType – Typing Practice Web App**
-- Responsive typing practice application.
-- Built using HTML, Tailwind CSS, JavaScript and jQuery.
-
-**3. Blogsy – Where Ideas Come Alive**
-- Blog web application built using Node.js, Express.js and EJS.
-- Features a responsive interface and blog publishing functionality.
-
----
+### 🚀 Projects
+- **Smart Lawn Maintenance:** Android weed detection app using YOLOv9.
+- **JustType:** Responsive typing practice web application.
+- **Blogsy:** Blog application built with Node.js, Express.js and EJS.
+- **G-News:** React based News web application.
+- **Portronics Clone:** Responsive E-commerce website UI clone.
+- **Chess Simulation:** Interactive chessboard with piece movement and highlighting.
 
 ### 🌱 Currently Learning
-- Advanced React.js
-- Next.js
-- Docker
-- Spring Boot
-
----
+Advanced React.js, Next.js, and Docker.
 
 ### 📫 Connect With Me
 
