@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there 👋, I'm Inam
 
-<!--
-**Inam-Ul-Haq-Baba/Inam-Ul-Haq-Baba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate developer interested in building responsive web applications and exploring modern technologies. I enjoy solving problems, learning new tools, and turning ideas into practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+**Frontend**
+- HTML, CSS, Tailwind CSS
+- JavaScript, jQuery
+- React.js
+
+**Backend**
+- Node.js
+- Express.js
+- EJS
+
+**Databases**
+- MongoDB
+- MySQL
+- PostgreSQL
+
+**Programming Languages**
+- Java
+- C++
+
+**Tools**
+- Git & GitHub
+- Postman
+- Figma
+
+---
+
+### 💻 Projects
+
+**1. Smart Lawn Maintenance**
+- Weed detection application using YOLOv9.
+- Detects and identifies different weed classes in lawn images.
+- Android application developed using Java.
+
+**2. JustType – Typing Practice Web App**
+- Responsive typing practice application.
+- Built using HTML, Tailwind CSS, JavaScript and jQuery.
+
+**3. Blogsy – Where Ideas Come Alive**
+- Blog web application built using Node.js, Express.js and EJS.
+- Features a responsive interface and blog publishing functionality.
+
+---
+
+### 🌱 Currently Learning
+- Advanced React.js
+- Next.js
+- Docker
+- Spring Boot
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+- GitHub: [@Inam-UI-Haq-Baba](https://github.com/Inam-UI-Haq-Baba)
+
+---
+
+⭐ Thanks for visiting my profile!
