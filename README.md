@@ -61,7 +61,7 @@ I'm a passionate developer interested in building responsive web applications an
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/inam-ul-haq-babawork)
 - GitHub: [@Inam-UI-Haq-Baba](https://github.com/Inam-UI-Haq-Baba)
 
 ---
