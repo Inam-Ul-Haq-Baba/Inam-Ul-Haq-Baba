@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Inam
+# Hi there 👋, I'm Inam Ul Haq Baba
 
 ### MCA Graduate | Full Stack Developer
 
